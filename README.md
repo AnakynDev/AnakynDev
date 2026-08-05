@@ -70,7 +70,9 @@ profile = {
 
 | Project | Description |
 |---|---|
-| [**cloudflare-bypasser**](https://github.com/AnakynDev/cloudflare-bypasser) | Python library that bypasses Cloudflare's Turnstile challenge with Camoufox and returns a valid `cf_clearance` cookie. |
+| [**TKG - True Knowledge Generator**](https://github.com/AnakynDev/tkg-gpt-wrapper) | Python wrapper that drives the ChatGPT web app through Playwright, letting you script conversations without a paid API key. |
+| [**Solus**](https://github.com/AnakynDev/solus-gemini-wrapper) | Python wrapper that drives the Gemini web app through Playwright, letting you script conversations without a paid API key. |
+| [**Cloudflare Bypasser**](https://github.com/AnakynDev/cloudflare-bypasser) | Python library that bypasses Cloudflare's Turnstile challenge with Camoufox and returns a valid `cf_clearance` cookie. Unfinished, but active and under current development. |
 
 ---
 
